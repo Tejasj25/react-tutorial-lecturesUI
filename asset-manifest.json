@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-lecturesUI/static/css/main.2b8a275e.css",
+    "main.js": "/react-tutorial-lecturesUI/static/js/main.eacb308c.js",
+    "index.html": "/react-tutorial-lecturesUI/index.html",
+    "main.2b8a275e.css.map": "/react-tutorial-lecturesUI/static/css/main.2b8a275e.css.map",
+    "main.eacb308c.js.map": "/react-tutorial-lecturesUI/static/js/main.eacb308c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8a275e.css",
+    "static/js/main.eacb308c.js"
+  ]
+}
